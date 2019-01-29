@@ -1,0 +1,11 @@
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\GetData.dll
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\GetData.pdb
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.Core.dll
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.dll
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.pdb
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.xml
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.Core.pdb
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\bin\Debug\Common.Logging.Core.xml
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\obj\Debug\GetData.dll
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\obj\Debug\GetData.pdb
+C:\Users\vioflu.ES\Documents\VioFlu\Coursera\CSharpCode\GetData\GetData\obj\Debug\GetDBData.csprojResolveAssemblyReference.cache
